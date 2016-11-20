@@ -1,0 +1,16 @@
+{
+  "chore_url" : "http://example.com/api/History/all",
+  "from_number" : "+15555555555",
+  "twilio_sid" : "xxxx",
+  "twilio_token" : "xxxx",
+  "users": {
+    "name_of_user" : {
+      "id" : 1,
+      "number" : "+15555551212"
+    },
+    "brett" : {
+      "id" : 2,
+      "number" : "+15555551000"
+    }
+  }
+}

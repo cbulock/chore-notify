@@ -1,0 +1,20 @@
+{
+  "name": "cbulock/chore-notify",
+  "description": "Sends texts if chores have not been completed for the day",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cameron Bulock",
+      "email": "cameron@bulock.com"
+    }
+  ],
+  "require": {
+    "twilio/sdk": "5.4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "cbulock\\chore_notify\\": "src/"
+    }
+  }
+}
